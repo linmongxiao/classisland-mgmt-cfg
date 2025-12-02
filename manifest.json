@@ -3,19 +3,3 @@
     "OrganizationName": "林春晓"
 }
 
-{
-    "ServerKind": 0,
-    "OrganizationName": "admin",
-    "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/linmongxiao/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
-    },
-    "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/linmongxiao/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
-    },
-    "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/linmongxiao/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
-    }
-}
